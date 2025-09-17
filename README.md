@@ -82,7 +82,7 @@
 ---
 
 ## 🛠 Tech Stack  
-## 🛠 Tech Stack  
+
 
 **Languages**  
 - JavaScript (ES6+), HTML5, CSS3 (Flexbox, Grid, Responsive Design)  
