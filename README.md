@@ -1,6 +1,6 @@
 # Hi, I'm Onkar Dhamma 👋  
 
-🎓 **B.Tech in Computer Science** (2020–2024)  (CGPAA :- 8/10  )
+🎓 **B.Tech in Computer Science** (2020–2024)  ( CGPA :- 8/10  )
 📍 Pune, India  
 💻 Passionate about Full Stack Development | Competitive Programming | Problem Solving  | Web Design 
 
